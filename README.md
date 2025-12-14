@@ -2,6 +2,8 @@
 
 **InnoPlace**, kullanıcıların ortak bir tuval üzerinde piksel yerleştirerek sanat eserleri oluşturabildiği, gerçek zamanlı, çok oyunculu bir web tabanlı piksel sanat oyunudur.
 
+🌐 **Hemen Oyna:** [www.innomis.tr/innoplace](http://www.innomis.tr/innoplace)
+
 ![InnoPlace Oynanış](screenshot.png)
 
 ## 🎮 Oyun Hakkında
