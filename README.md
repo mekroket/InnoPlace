@@ -4,7 +4,7 @@
 
 🌐 **Hemen Oyna:** [www.innomis.tr/innoplace](http://www.innomis.tr/innoplace)
 
-![InnoPlace Oynanış](screenshot.png)
+![InnoPlace Oynanış](gameplay_v2.png)
 
 ## 🎮 Oyun Hakkında
 
